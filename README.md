@@ -127,11 +127,3 @@ Person oldest = Person.findOldestPersonAlive(people);
 ```java
 PlantUMLRunner.generate(Person.toPlantUMLTreeV1(people), "out_uml", "family");
 ```
-
-## 👨‍💻 Autor
-
-Projekt stworzony jako zadanie edukacyjne w celu rozwijania umiejętności programowania w języku Java.
-
-## 📄 Licencja
-
-Projekt edukacyjny - wolny do użytku w celach edukacyjnych i nauki programowania
